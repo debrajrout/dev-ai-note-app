@@ -24,7 +24,7 @@ export default function NavBar() {
         <div className="m-auto flex max-w-7xl flex-wrap items-center justify-between gap-3">
           <Link href="/notes" className="flex items-center gap-1">
             <Image src={logo} alt="FlowBrain logo" width={40} height={40} />
-            <span className="font-bold">FlowBrain</span>
+            <span className="font-bold">Hyper-Dev</span>
           </Link>
           <div className="flex items-center gap-2">
             <UserButton
